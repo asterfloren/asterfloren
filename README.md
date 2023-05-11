@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **the MERN stack**
 
-- 📫 How to reach me **tima.chamomile@gmail.com**
+- 📫 How to reach me: **tima.chamomile@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
