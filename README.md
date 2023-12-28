@@ -1,5 +1,5 @@
-<h1 align="center">Hi 💫, I'm Tima</h1>
-<h3 align="center">A full-stack web developer</h3>
+<h1 align="center">Hi 💫, I'm Chamomile</h1>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamomiles&label=Profile%20views&color=0e75b6&style=flat" alt="chamomiles" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chamomile_dev" target="blank"><img src="https://img.shields.io/twitter/follow/chamomile_dev?logo=twitter&style=for-the-badge" alt="chamomile_dev" /></a> </p>
 
-- 🌱 I’m currently learning **the MERN stack**
+- 🌱 I’m currently learning **everything**
 
 - 📫 How to reach me: **tima.chamomile@gmail.com**
 
