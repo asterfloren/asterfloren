@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamomiles" alt="chamomiles" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chamomile_dev" target="blank"><img src="https://img.shields.io/twitter/follow/chamomile_dev?logo=twitter&style=for-the-badge" alt="chamomile_dev" /></a> </p>
-
 - 🌱 I’m currently in the 1st year of my CS Bachelor
 
 <h3 align="left">Languages and Tools:</h3>
